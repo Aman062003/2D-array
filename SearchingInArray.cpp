@@ -31,7 +31,7 @@ int main() {
         }
     }
 
-if(flag=true){
+if(flag){
     cout<<"Element is Found";
 }else{
     cout<<"Element not Found";
